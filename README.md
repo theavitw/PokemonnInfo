@@ -8,7 +8,7 @@ git clone https://github.com/TheShiveshNetwork/Pokedex.git
 3. Run the following command to change the working directory
 
 ```sh
-cd pokemonn-Info
+cd pokemonnInfo
 ```
 
 4. Run the following command to install all the dependencies
