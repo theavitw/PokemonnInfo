@@ -2,7 +2,7 @@
 2. Clone your forked repository
 
 ```sh
-git clone https://github.com/TheShiveshNetwork/Pokedex.git
+git clone https://github.com/theavitw/PokemonnInfo.git
 ```
 
 3. Run the following command to change the working directory
